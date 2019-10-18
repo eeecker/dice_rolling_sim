@@ -7,6 +7,6 @@ class Dice_roll:
 		else:
 			print(random.randrange(1,sides))
 		return;
-eric = Dice_roll()
-eric.roll()
-eric.roll(1,20)
+bill = Dice_roll()
+bill.roll()
+bill.roll(1,20)
